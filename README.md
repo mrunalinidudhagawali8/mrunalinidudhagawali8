@@ -3,6 +3,22 @@
 - 📫 you can reach me on dudhagawali@gmail.com
 
 <!---
-mrunalinidudhagawali8/mrunalinidudhagawali8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+gh cli cmds : 
+
+#cmd manuals
+https://cli.github.com/manual/
+
+#To Login
+gh auth login
+
+
+#To Clone
+gh repo clone <repo name>
+
+
+#To Commmit/push local code
+git add <filename>
+git commit -m "commit_msg"
+git push -u origin main
+
 --->
