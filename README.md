@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @mrunalinidudhagawali8
-- 👀 I’m interested in learning new technologies and create projects that would make a difference
-- 📫 you can reach me on dudhagawali@gmail.com
+
+- 👋 Hey there! Ready to get to know the Java-loving code wizard behind the screen? As a software developer, I live and breathe coding in Java
+- 👀 Interested in learning more about my Java development experience or want to chat about a potential project? Don't hesitate to get in touch!
+- 📬 You can reach me at dudhagawali@gmail.com or connect with me on https://www.linkedin.com/in/mrunalini-dudhagawali-35b46a128
+- 😎 Let's geek out together over some code and create something awesome!
 
 <!---
-gh cli cmds : 
+common gh cli cmds 
 
 #cmd manuals
 https://cli.github.com/manual/
